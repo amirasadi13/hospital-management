@@ -1,4 +1,6 @@
 # Hospital Management
+<img src="https://media.licdn.com/dms/image/C5612AQHhvBAZjanbsg/article-cover_image-shrink_600_2000/0/1633674492707?e=2147483647&v=beta&t=p7r8zSfIqOD6yAuN5JwgGjXh9xZL45NCtNhDk05KoKs"/>
+
 Hospital management system is a small project to manage the hospital activities.
 
 
